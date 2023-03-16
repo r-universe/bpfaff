@@ -1,0 +1,10 @@
+[
+  {
+    "package": "evir",
+    "oncran": true
+  },
+  {
+    "package": "FRAPO",
+    "oncran": true
+  }
+]

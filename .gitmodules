@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "evir"]
+	path = evir
+	url = https://github.com/bpfaff/evir
+	shallow = true
+	registered = true
+[submodule "FRAPO"]
+	path = FRAPO
+	url = https://github.com/bpfaff/frapo
+	shallow = true
+	registered = true
