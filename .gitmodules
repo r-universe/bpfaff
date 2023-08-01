@@ -2,21 +2,21 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "FRAPO"]
+	path = FRAPO
+	url = https://github.com/bpfaff/frapo
+[submodule "QRM"]
+	path = QRM
+	url = https://github.com/cran/QRM
 [submodule "cccp"]
 	path = cccp
 	url = https://github.com/cran/cccp
 [submodule "evir"]
 	path = evir
 	url = https://github.com/bpfaff/evir
-[submodule "FRAPO"]
-	path = FRAPO
-	url = https://github.com/bpfaff/frapo
 [submodule "gogarch"]
 	path = gogarch
 	url = https://github.com/cran/gogarch
-[submodule "QRM"]
-	path = QRM
-	url = https://github.com/cran/QRM
 [submodule "rbtc"]
 	path = rbtc
 	url = https://github.com/cran/rbtc
