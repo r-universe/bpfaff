@@ -10,7 +10,7 @@
 	url = https://github.com/cran/QRM
 [submodule "cccp"]
 	path = cccp
-	url = https://github.com/cran/cccp
+	url = https://github.com/bpfaff/cccp
 [submodule "evir"]
 	path = evir
 	url = https://github.com/bpfaff/evir
